@@ -19,7 +19,9 @@
     "Thang Huu Vu <hi@thvu.dev>"
   ],
   "dependencies": {
+    "@auth/azure-tables-adapter": "^1.4.2",
     "@auth/unstorage-adapter": "^2.0.0",
+    "@azure/data-tables": "^13.2.2",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-collapsible": "^1.0.3",
     "@radix-ui/react-dropdown-menu": "^2.0.5",
